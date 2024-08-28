@@ -60,4 +60,4 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-      git clone https://github.com/amitmaji01/Heart_attack_classifier
+      git clone https://github.com/Dipanwit/Heartattack_Predictor-
